@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<queryresult success='true'
+    error='false'
+    numpods='15'
+    datatypes='HistoricalPeriod,Language,Translation,Word'
+    timedout=''
+    timedoutpods=''
+    timing='5.789'
+    parsetiming='0.199'
+    parsetimedout='false'
+    recalculate=''
+    id='MSPa50431f27c5hc71fegc4a00003297gah86cd88ga5'
+    host='http://www5a.wolframalpha.com'
+    server='3'
+    related='http://www5a.wolframalpha.com/api/v2/relatedQueries.jsp?id=MSPa50441f27c5hc71fegc4a00000he54556ac2825c8&amp;s=3'
+    version='2.6'>
+ <pod title='Input interpretation'
+     scanner='Identity'
+     id='Input'
+     position='100'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50451f27c5hc71fegc4a000051857bfibif26g99?MSPStoreType=image/gif&amp;s=3'
+       alt='pi  (English word)'
+       title='pi  (English word)'
+       width='118'
+       height='18' />
+   <plaintext>pi  (English word)</plaintext>
+  </subpod>
+ </pod>
+ <pod title='Definitions'
+     scanner='Data'
+     id='Definition:WordData'
+     position='200'
+     error='false'
+     numsubpods='1'
+     primary='true'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50461f27c5hc71fegc4a000011hah46gbicc0650?MSPStoreType=image/gif&amp;s=3'
+       alt='1 | noun | the ratio of the circumference to the diameter of a circle; approximately equal to 3.14159265358979323846..
+2 | noun | the 16th letter of the Greek alphabet'
+       title='1 | noun | the ratio of the circumference to the diameter of a circle; approximately equal to 3.14159265358979323846..
+2 | noun | the 16th letter of the Greek alphabet'
+       width='546'
+       height='65' />
+   <plaintext>1 | noun | the ratio of the circumference to the diameter of a circle; approximately equal to 3.14159265358979323846..
+2 | noun | the 16th letter of the Greek alphabet</plaintext>
+  </subpod>
+ </pod>
+ <pod title='Pronunciation'
+     scanner='Data'
+     id='Pronunciation:WordData'
+     position='300'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50471f27c5hc71fegc4a000032cg9d637ddb26ai?MSPStoreType=image/gif&amp;s=3'
+       alt='p&apos;ahy  (IPA: p\:02c8a\:026a)'
+       title='p&apos;ahy  (IPA: p\:02c8a\:026a)'
+       width='104'
+       height='18' />
+   <plaintext>p&apos;ahy  (IPA: p\:02c8a\:026a)</plaintext>
+  </subpod>
+ </pod>
+ <pod title='First known use in English'
+     scanner='Data'
+     id='FirstRecordYear:WordData'
+     position='400'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50481f27c5hc71fegc4a0000269b7291g5db98i7?MSPStoreType=image/gif&amp;s=3'
+       alt='1841  (Victorian era)  (175 years ago)'
+       title='1841  (Victorian era)  (175 years ago)'
+       width='223'
+       height='18' />
+   <plaintext>1841  (Victorian era)  (175 years ago)</plaintext>
+  </subpod>
+ </pod>
+ <pod title='Word origins'
+     scanner='Data'
+     id='LanguageOrigin:WordData'
+     position='500'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50491f27c5hc71fegc4a00002ab9i4f0e85d5dcb?MSPStoreType=image/gif&amp;s=3'
+       alt='Greek  |  Classical Hebrew'
+       title='Greek  |  Classical Hebrew'
+       width='176'
+       height='18' />
+   <plaintext>Greek  |  Classical Hebrew</plaintext>
+  </subpod>
+ </pod>
+ <pod title='Word frequency history'
+     scanner='Data'
+     id='BookMatchFrequency:WordData'
+     position='600'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50501f27c5hc71fegc4a00005c043f475i649868?MSPStoreType=image/gif&amp;s=3'
+       alt=''
+       title=''
+       width='410'
+       height='124' />
+   <plaintext></plaintext>
+  </subpod>
+  <states count='2'>
+   <statelist count='2'
+       value='Linear scale'
+       delimiters=''>
+    <state name='Linear scale'
+        input='BookMatchFrequency:WordData__Linear scale' />
+    <state name='Log scale'
+        input='BookMatchFrequency:WordData__Log scale' />
+   </statelist>
+   <statelist count='2'
+       value='Binned'
+       delimiters=''>
+    <state name='Binned'
+        input='BookMatchFrequency:WordData__Binned' />
+    <state name='Raw'
+        input='BookMatchFrequency:WordData__Raw' />
+   </statelist>
+  </states>
+  <definitions count='1'>
+   <definition word='Word frequency history'
+       desc='based on a Google Books sample of one million books in English; Michel, J.-B., Y. K. Shen, A. P. Aiden, A. Veres, M. K. Gray, The Google Books Team, J. P. Pickett, D. Hoiberg, D. Clancy, P. Norvig, J. Orwant, S. Pinker, M. A. Nowak, and E. L. Aiden. &quot;Quantitative Analysis of Culture Using Millions of Digitized Books.&quot; Science 331 (2011)' />
+  </definitions>
+ </pod>
+ <pod title='Broader terms'
+     scanner='Data'
+     id='Hypernym:WordData'
+     position='700'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50511f27c5hc71fegc4a0000382d0e1bb2gd8h5c?MSPStoreType=image/gif&amp;s=3'
+       alt='transcendental number  |  alphabetic character  |  letter  |  letter of the alphabet   (total: 4)'
+       title='transcendental number  |  alphabetic character  |  letter  |  letter of the alphabet   (total: 4)'
+       width='545'
+       height='42' />
+   <plaintext>transcendental number  |  alphabetic character  |  letter  |  letter of the alphabet   (total: 4)</plaintext>
+  </subpod>
+  <states count='1'>
+   <statelist count='2'
+       value='Meanings combined'
+       delimiters=''>
+    <state name='Meanings divided'
+        input='Hypernym:WordData__Meanings divided' />
+    <state name='Meanings combined'
+        input='Hypernym:WordData__Meanings combined' />
+   </statelist>
+  </states>
+ </pod>
+ <pod title='Rhymes'
+     scanner='Data'
+     id='Rhyme:WordData'
+     position='800'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50521f27c5hc71fegc4a000051icbffbhd8283d8?MSPStoreType=image/gif&amp;s=3'
+       alt='apply  |  awry  |  belie  |  bonsai  |  buy  |  by  |  bye  |  chi  |  comply  |  cry  |  decry  |  defy  |  deny  |  die  |  dry  |  ...   (total: 64)
+(based on typical American pronunciation)'
+       title='apply  |  awry  |  belie  |  bonsai  |  buy  |  by  |  bye  |  chi  |  comply  |  cry  |  decry  |  defy  |  deny  |  die  |  dry  |  ...   (total: 64)
+(based on typical American pronunciation)'
+       width='512'
+       height='63' />
+   <plaintext>apply  |  awry  |  belie  |  bonsai  |  buy  |  by  |  bye  |  chi  |  comply  |  cry  |  decry  |  defy  |  deny  |  die  |  dry  |  ...   (total: 64)
+(based on typical American pronunciation)</plaintext>
+  </subpod>
+  <states count='2'>
+   <statelist count='4'
+       value='Sorted alphabetically'
+       delimiters=''>
+    <state name='Sorted alphabetically'
+        input='Rhyme:WordData__Sorted alphabetically' />
+    <state name='Sorted by length'
+        input='Rhyme:WordData__Sorted by length' />
+    <state name='Sorted by syllables'
+        input='Rhyme:WordData__Sorted by syllables' />
+    <state name='Sorted by frequency'
+        input='Rhyme:WordData__Sorted by frequency' />
+   </statelist>
+   <state name='More'
+       input='Rhyme:WordData__More' />
+  </states>
+ </pod>
+ <pod title='Homophone'
+     scanner='Data'
+     id='Homophones:WordData'
+     position='900'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50531f27c5hc71fegc4a00002h883f01h832h9d8?MSPStoreType=image/gif&amp;s=3'
+       alt='pie'
+       title='pie'
+       width='20'
+       height='18' />
+   <plaintext>pie</plaintext>
+  </subpod>
+ </pod>
+ <pod title='Lexically close words'
+     scanner='Data'
+     id='LexicallyCloseWords:WordData'
+     position='1000'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50541f27c5hc71fegc4a0000141eidfi51c5c260?MSPStoreType=image/gif&amp;s=3'
+       alt='pic  |  pie  |  pig  |  pin  |  pip  |  pis  |  pit  |  pix   (total: 8)'
+       title='pic  |  pie  |  pig  |  pin  |  pip  |  pis  |  pit  |  pix   (total: 8)'
+       width='410'
+       height='18' />
+   <plaintext>pic  |  pie  |  pig  |  pin  |  pip  |  pis  |  pit  |  pix   (total: 8)</plaintext>
+  </subpod>
+ </pod>
+ <pod title='Anagrams'
+     scanner='Data'
+     id='Anagram:WordData'
+     position='1100'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50551f27c5hc71fegc4a0000144da5c7i21023fd?MSPStoreType=image/gif&amp;s=3'
+       alt='(none among common words)'
+       title='(none among common words)'
+       width='199'
+       height='18' />
+   <plaintext>(none among common words)</plaintext>
+  </subpod>
+ </pod>
+ <pod title='Phrase'
+     scanner='Data'
+     id='Phrase:WordData'
+     position='1200'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50561f27c5hc71fegc4a00005f967fb60646bf11?MSPStoreType=image/gif&amp;s=3'
+       alt='pi-meson'
+       title='pi-meson'
+       width='61'
+       height='18' />
+   <plaintext>pi-meson</plaintext>
+  </subpod>
+ </pod>
+ <pod title='Translations'
+     scanner='Data'
+     id='ManyTranslations:TranslationData'
+     position='1300'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50571f27c5hc71fegc4a0000451957de96dc6c4a?MSPStoreType=image/gif&amp;s=3'
+       alt='Spanish:  | pi  (symbol)
+Portuguese:  | pi  (symbol)
+Japanese:  | pi  (common noun)  |  Pi  (common noun)
+French:  | pi  (symbol)
+German:  | Pi  (symbol)'
+       title='Spanish:  | pi  (symbol)
+Portuguese:  | pi  (symbol)
+Japanese:  | pi  (common noun)  |  Pi  (common noun)
+French:  | pi  (symbol)
+German:  | Pi  (symbol)'
+       width='331'
+       height='104' />
+   <plaintext>Spanish:  | pi  (symbol)
+Portuguese:  | pi  (symbol)
+Japanese:  | pi  (common noun)  |  Pi  (common noun)
+French:  | pi  (symbol)
+German:  | Pi  (symbol)</plaintext>
+  </subpod>
+  <states count='1'>
+   <state name='More'
+       input='ManyTranslations:TranslationData__More' />
+  </states>
+ </pod>
+ <pod title='Crossword puzzle clue'
+     scanner='Data'
+     id='NYTCrosswordPuzzleClues:WordData'
+     position='1500'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50581f27c5hc71fegc4a00005d06ia31gbff077g?MSPStoreType=image/gif&amp;s=3'
+       alt='Common ratio
+(based on all New York Times crossword puzzles 1994 to 2009)'
+       title='Common ratio
+(based on all New York Times crossword puzzles 1994 to 2009)'
+       width='342'
+       height='36' />
+   <plaintext>Common ratio
+(based on all New York Times crossword puzzles 1994 to 2009)</plaintext>
+  </subpod>
+ </pod>
+ <pod title='Scrabble score'
+     scanner='Data'
+     id='ScrabbleScore:WordData'
+     position='1600'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5a.wolframalpha.com/Calculate/MSP/MSP50591f27c5hc71fegc4a00002h6h1ai5afc5f536?MSPStoreType=image/gif&amp;s=3'
+       alt='4  (International English)  |  4  (North American English)'
+       title='4  (International English)  |  4  (North American English)'
+       width='380'
+       height='18' />
+   <plaintext>4  (International English)  |  4  (North American English)</plaintext>
+  </subpod>
+ </pod>
+ <assumptions count='1'>
+  <assumption type='MultiClash'
+      word=''
+      template='Assuming ${word1} is referring to ${desc1}. Use &quot;${word2}&quot; as ${desc2}. Use &quot;${word3}&quot; as ${desc3}. Use &quot;${word4}&quot; as ${desc4}.'
+      count='4'>
+   <value name='Word'
+       word='what is pi'
+       desc='a word'
+       input='*MC.what+is+pi-_*Word-' />
+   <value name='MathWorld'
+       word='pi'
+       desc=' referring to a mathematical definition'
+       input='*MC.what+is+pi-_*MathWorld-' />
+   <value name='MathWorldClass'
+       word='pi'
+       desc='a class of mathematical terms'
+       input='*MC.what+is+pi-_*MathWorldClass-' />
+   <value name='Movie'
+       word='pi'
+       desc='a movie'
+       input='*MC.what+is+pi-_*Movie-' />
+  </assumption>
+ </assumptions>
+ <sources count='19'>
+  <source url='http://www.wolframalpha.com/sources/AdministrativeDivisionDataSourceInformationNotes.html'
+      text='Administrative division data' />
+  <source url='http://www.wolframalpha.com/sources/BookDataSourceInformationNotes.html'
+      text='Book data' />
+  <source url='http://www.wolframalpha.com/sources/BridgeDataSourceInformationNotes.html'
+      text='Bridge data' />
+  <source url='http://www.wolframalpha.com/sources/BuildingDataSourceInformationNotes.html'
+      text='Building data' />
+  <source url='http://www.wolframalpha.com/sources/CityDataSourceInformationNotes.html'
+      text='City data' />
+  <source url='http://www.wolframalpha.com/sources/CompanyDataSourceInformationNotes.html'
+      text='Company data' />
+  <source url='http://www.wolframalpha.com/sources/CountryDataSourceInformationNotes.html'
+      text='Country data' />
+  <source url='http://www.wolframalpha.com/sources/GivenNameDataSourceInformationNotes.html'
+      text='Given name data' />
+  <source url='http://www.wolframalpha.com/sources/HistoricalPeriodDataSourceInformationNotes.html'
+      text='Historical period data' />
+  <source url='http://www.wolframalpha.com/sources/InternetDataSourceInformationNotes.html'
+      text='Internet data' />
+  <source url='http://www.wolframalpha.com/sources/LakeDataSourceInformationNotes.html'
+      text='Lake data' />
+  <source url='http://www.wolframalpha.com/sources/LanguageDataSourceInformationNotes.html'
+      text='Language data' />
+  <source url='http://www.wolframalpha.com/sources/MountainDataSourceInformationNotes.html'
+      text='Mountain data' />
+  <source url='http://www.wolframalpha.com/sources/MovieDataSourceInformationNotes.html'
+      text='Movie data' />
+  <source url='http://www.wolframalpha.com/sources/OceanDataSourceInformationNotes.html'
+      text='Ocean data' />
+  <source url='http://www.wolframalpha.com/sources/RiverDataSourceInformationNotes.html'
+      text='River data' />
+  <source url='http://www.wolframalpha.com/sources/SurnameDataSourceInformationNotes.html'
+      text='Surname data' />
+  <source url='http://www.wolframalpha.com/sources/TranslationDataSourceInformationNotes.html'
+      text='Translation data' />
+  <source url='http://www.wolframalpha.com/sources/WordDataSourceInformationNotes.html'
+      text='Word data' />
+ </sources>
+</queryresult>

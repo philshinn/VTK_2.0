@@ -1,0 +1,4 @@
+BOT_ID = 'U3GGZ53LN'
+BOT_TOKEN = 'xoxb-118577173702-bWXKhGmdNFBu55EtNBoZraQf'
+AT_BOT = "<@" + BOT_ID + ">"
+channel="C3F612REU"
