@@ -1,3 +1,4 @@
 # VTK_2.0
 Voice User Interface Designer Tool Kit
-see VuidToolKit 2.0 Documentation.docx
+See VuidToolKit 2.0 Documentation.docx
+Tutorual Videos over here: https://www.youtube.com/playlist?list=PLret8tg2KaxCvc2igN1osvFJPsbw31LPV 
